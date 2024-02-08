@@ -1,3 +1,9 @@
 {
-  
+    "code":200,
+    "message":"",
+    "data":{
+        "type":"1",
+        "title":"Đã phát hiện mạng không ổn định, vui lòng kiểm tra mạng",
+        "button":"ĐƯỢC RỒI"
+    }
 }
